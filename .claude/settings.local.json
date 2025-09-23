@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl:*)",
+      "mcp__unity-natural-mcp__run_edit_mode_tests",
+      "mcp__unity-natural-mcp__get_compile_logs",
+      "mcp__ide__getDiagnostics",
+      "mcp__unity-natural-mcp__run_play_mode_tests",
+      "mcp__unity-natural-mcp__refresh_assets",
+      "mcp__unity-natural-mcp__get_current_console_logs",
+      "mcp__unity-natural-mcp__clear_console_logs"
+    ],
+    "deny": []
+  },
+  "enabledMcpjsonServers": [
+    "unity-natural-mcp"
+  ]
+}
